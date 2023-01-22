@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCredPrompt", "WinCredPrompt\WinCredPrompt.csproj", "{8E9494B3-2426-400E-9ECB-EDB91521E18E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp", "DemoApp\DemoApp.csproj", "{2053DE1F-177A-4DF2-AB0C-F617E2A1B03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9494B3-2426-400E-9ECB-EDB91521E18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9494B3-2426-400E-9ECB-EDB91521E18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9494B3-2426-400E-9ECB-EDB91521E18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9494B3-2426-400E-9ECB-EDB91521E18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2053DE1F-177A-4DF2-AB0C-F617E2A1B03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2053DE1F-177A-4DF2-AB0C-F617E2A1B03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2053DE1F-177A-4DF2-AB0C-F617E2A1B03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2053DE1F-177A-4DF2-AB0C-F617E2A1B03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD097F9-F0EA-4F88-8C28-A962EA5D73F7}
+	EndGlobalSection
+EndGlobal
